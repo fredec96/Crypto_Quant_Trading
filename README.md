@@ -47,7 +47,8 @@ To run Crypto Quant Trading you must first clone the repository to your local ma
 ```python
 git clone <paste link here>
 ```
-Data collection, cleaning, and concatenation was done in the Bitfinex_Data.ipynb file. For ease of use the cleaned and concatenated CSV files have already been saved in the repository as Bitcoin_Data.csv and Coins_Data_Master.csv
+* Data collection, cleaning, and concatenation was done in the ```Bitfinex_Data.ipynb``` file 
+* For ease of use the cleaned and concatenated CSV files have already been saved in the repository as ```Bitcoin_Data.csv``` and ```Coins_Data_Master.csv```
 
 Open the data.ipynb file and run to view the data analysis and graphics 
   
