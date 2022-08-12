@@ -42,7 +42,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install hvPlot:
 ---
 ## Usage 
 
-To run Crypto Quant Trading you must first clone the repository to your local machine:
+To run the Crypto_Quant_Trading analysis files you must first clone the repository to your local machine:
 
 ```python
 git clone <paste link here>
@@ -50,23 +50,30 @@ git clone <paste link here>
 * Data collection, cleaning, and concatenation was done in the ```Bitfinex_Data.ipynb``` file 
 * For ease of use the cleaned and concatenated CSV files have already been saved in the repository as ```Bitcoin_Data.csv``` and ```Coins_Data_Master.csv```
 
-Open the data.ipynb file and run to view the data analysis and graphics 
+Open the ```data.ipynb``` file and run to view the data analysis and graphics 
   
 <br>
+
 ---
+
 ### Contributors 
+
 Abhir Mehra
-*
-*
+* Email
+* LinkedIn
+
 Cole Frederick
 * fredec96@gmail.com
 * [Linkedin](www.linkedin.com/in/cole-frederick-085982b0)
+
 Josh Thompkins
-*
-*
+* Email
+* LinkedIn
+
 Rebekah (Libaijia) Lin
-*
-*
+* Email
+* LinkedIn
+
 Sebastian Sandoval
-*
-*
+* Email
+* LinkedIn
