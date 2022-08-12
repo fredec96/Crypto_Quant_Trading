@@ -64,7 +64,7 @@ Abhir Mehra
 
 Cole Frederick
 * fredec96@gmail.com
-* [Linkedin](www.linkedin.com/in/cole-frederick-085982b0)
+* [Linkedin](https://www.linkedin.com/in/cole-frederick-085982b0/)
 
 Josh Thompkins
 * Email
