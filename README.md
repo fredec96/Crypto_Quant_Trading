@@ -1,9 +1,20 @@
 # Crypto Quant Trading
+## About
+Volatile crypto’s that are correlated with BTC can return greater profits through active trading using BTC as a broad market signal. In this project, BTC is used as the most efficient cryptocurrency. By using pure technical analysis of SMA, we determine the trading signal for longing and shorting decisions. Cumulative returns are calculated to test efficiency and profitability of trading crypto's with this approach.
+
 ## SMA Approach
 ![Strong Correlation in the Crypto Market](Images/normalized_price.png)
+There is a strong correlation in the Crypto Market.
+
 ![SMA Buy and Short Signals](Images/trading_signals.png)
+By comparing 10-day moving average with 20-day moving average, long and short signals are determined. 
+* Purple arrows: exit short trade and execute long. 
+* Orange arrows: exit long trade and execute short.
+
 ## Results
 ![Return History Using our Strategy](Images/Cum_returns_graph.png)
+Monero (XMR) and Ethereum (ETH) provide greater returns than Bitcoin and yield 141.8271x and 132.0413x respectively
+
 ---
 ## Technologies 
 ### This project leverages python 3.7 with the following packages:
@@ -59,21 +70,21 @@ Open the ```data.ipynb``` file and run to view the data analysis and graphics
 ### Contributors 
 
 Abhir Mehra
-* Email
-* LinkedIn
+* abhirmehra5@gmail.com
+* [Linkedin](https://www.linkedin.com/in/abhir-mehra/) 
 
 Cole Frederick
 * fredec96@gmail.com
 * [Linkedin](https://www.linkedin.com/in/cole-frederick-085982b0/)
 
 Josh Thompkins
-* Email
+* joshmthompkins@gmail.com
 * LinkedIn
 
 Rebekah (Libaijia) Lin
-* Email
-* LinkedIn
+* rebekah.lin.28@gmail.com
+* [Linkedin](https://www.linkedin.com/in/rebekah-lin/)
 
 Sebastian Sandoval
-* Email
+* ssandoval1994r@gmail.com
 * LinkedIn
