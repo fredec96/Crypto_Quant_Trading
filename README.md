@@ -75,7 +75,7 @@ Abhir Mehra
 
 Cole Frederick
 * fredec96@gmail.com
-* [Linkedin](https://www.linkedin.com/in/cole-frederick-085982b0/)
+* [LinkedIn](https://www.linkedin.com/in/cole-frederick-085982b0/)
 
 Josh Thompkins
 * joshmthompkins@gmail.com
@@ -83,7 +83,7 @@ Josh Thompkins
 
 Rebekah (Libaijia) Lin
 * rebekah.lin.28@gmail.com
-* [Linkedin](https://www.linkedin.com/in/rebekah-lin/)
+* [LinkedIn](https://www.linkedin.com/in/rebekah-lin/)
 
 Sebastian Sandoval
 * ssandoval1994r@gmail.com
