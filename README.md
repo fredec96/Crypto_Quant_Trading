@@ -59,8 +59,8 @@ Open the ```data.ipynb``` file and run to view the data analysis and graphics
 ### Contributors 
 
 Abhir Mehra
-* Email
-* LinkedIn
+* abhirmehra5@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/abhir-mehra/)
 
 Cole Frederick
 * fredec96@gmail.com
