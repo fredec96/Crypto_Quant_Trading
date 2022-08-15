@@ -71,7 +71,7 @@ Open the ```data.ipynb``` file and run to view the data analysis and graphics
 
 Abhir Mehra
 * abhirmehra5@gmail.com
-* LinkedIn
+* [LinkedIn](https://www.linkedin.com/in/abhir-mehra/)
 
 Cole Frederick
 * fredec96@gmail.com
