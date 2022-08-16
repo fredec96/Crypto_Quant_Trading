@@ -78,12 +78,12 @@ Cole Frederick
 * [LinkedIn](https://www.linkedin.com/in/cole-frederick-085982b0/)
 
 Josh Thompkins
-* joshmthompkins@gmail.com
-* LinkedIn
+* joshuathompkins07@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/rebekah-lin/)
 
 Rebekah (Libaijia) Lin
 * rebekah.lin.28@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/rebekah-lin/)
+* [LinkedIn](https://www.linkedin.com/in/joshua-thompkins/)
 
 Sebastian Sandoval
 * ssandoval1994r@gmail.com
